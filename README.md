@@ -2,8 +2,7 @@
 <h3 align="center">Computer Engineering Senior </h3>
 
 ## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dilayberin&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=dilayberin&theme=tokyonight" />
 </p>
-
-
